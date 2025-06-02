@@ -38,13 +38,4 @@ A través de un enfoque cuantitativo y geográfico, se busca identificar patrone
 
 ---
 
-## 📁 Estructura del Proyecto
-
-```bash
-📦 alura-store-analysis
-├── 📊 data/               # Dataset original (no incluido por privacidad)
-├── 📓 notebooks/         # Análisis exploratorio y visualizaciones
-├── 📈 charts/            # Imágenes exportadas (gráficos)
-├── 📄 README.md          # Descripción del proyecto
-└── requirements.txt      # Dependencias del entorno
 
